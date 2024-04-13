@@ -1,4 +1,4 @@
-export const BASE_DOMAIN = "changemyip.com"
+export const BASE_DOMAIN = "proxygo.net"
 export const GOOGLE_TRACKING_ID = "G-example";
-export const SITE_NAME = "Site Name Here";
+export const SITE_NAME = "ProxyGo";
 
